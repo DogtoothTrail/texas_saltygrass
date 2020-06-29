@@ -10,7 +10,7 @@ Abigail Bell (arbell2009@gmail.com) and Nick Smith (nick.gregory.smith@gmail.com
 
 ## folder descriptions
 ### /data
-This folder contains all the data files from the experiment.
+This folder contains all data files from the experiment.
 
 ## file descriptions
 ### /data/cn_data.csv
