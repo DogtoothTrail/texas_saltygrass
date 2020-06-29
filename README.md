@@ -7,6 +7,7 @@ This repository houses data depicting the nutritive and growth responses to sali
 Abigail Bell (arbell2009@gmail.com) and Nick Smith (nick.gregory.smith@gmail.com)
 
 ## DOI badge
+[![DOI](https://zenodo.org/badge/275826736.svg)](https://zenodo.org/badge/latestdoi/275826736)
 
 ## folder descriptions
 ### /data
